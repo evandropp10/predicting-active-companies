@@ -23,11 +23,12 @@ Git the repository and *python dataMining.py*.
  - Python 3.6 or higher.
  - Libraries: Pandas, Scikit-learn.
 
-The final output is the file prediction.csv, but during the process, the steps are printed in the terminal.
+The final output is the file prediction.csv, and during the process the steps are printed in the terminal.
 ![](http://epcoder.com/wp-content/uploads/2019/02/Captura-de-Tela-2019-02-23-a%CC%80s-06.43.01.png)
 
-The prediction.csv file that is in the directory is the last one generated, so it can be disregarded for new tests.
+The prediction.csv file in the directory is the last one generated, so it can be disregarded for new tests.
+
+To analyze data 
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE4Mzc2MjM4MzEsLTE1MTE3Njc3MzhdfQ
-==
+eyJoaXN0b3J5IjpbMTk0MDMyNTgwNSwtMTUxMTc2NzczOF19
 -->
