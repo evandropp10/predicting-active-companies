@@ -28,7 +28,8 @@ The final output is the file prediction.csv, and during the process the steps ar
 
 The prediction.csv file in the directory is the last one generated, so it can be disregarded for new tests.
 
-To analyze data 
+The analyzes of data are in dataExplore.ipynb (Jupiter Notebook).
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTk0MDMyNTgwNSwtMTUxMTc2NzczOF19
+eyJoaXN0b3J5IjpbLTE5NTc5NjY1MzgsLTE1MTE3Njc3MzhdfQ
+==
 -->
